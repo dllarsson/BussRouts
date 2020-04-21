@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BussRout
+namespace BussRoute
 {
-    class RoutConnector
+    class RouteConnector
     {
     }
 }

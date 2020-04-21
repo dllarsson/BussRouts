@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace BussRout
+namespace BussRoute
 {
     public class Node
     {
