@@ -4,7 +4,16 @@ using System.Text;
 
 namespace BussRout
 {
-    class Connections
+    public class Connections
     {
+        public Node a;
+        public Node b;
+        public int Weight { get; private set; }
+        public Connections(Node connect, Node toConnectTo, int lengthBetweenNodes)
+        {
+            a = connect;
+            b = toConnectTo;
+            Weight = lengthBetweenNodes;
+        }
     }
 }
