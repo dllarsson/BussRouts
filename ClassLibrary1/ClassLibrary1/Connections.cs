@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BussRout
+namespace BussRoute
 {
     public class Connections
     {
